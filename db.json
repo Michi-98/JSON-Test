@@ -2,7 +2,6 @@
   "items": [],
   "messages": [],
   "columnsData": [
-    [
       {
         "id": 1,
         "name": "dawd"
@@ -28,5 +27,4 @@
         "name": "Material"
       }
     ]
-  ]
 }
